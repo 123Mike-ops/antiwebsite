@@ -1,0 +1,15 @@
+
+<template>
+  <div id="app">
+    <dlHeader />
+    <!-- <router-link to="/hospital"></router-link> -->
+    <router-view />
+    <dlFooter />
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'App'
+}
+</script>

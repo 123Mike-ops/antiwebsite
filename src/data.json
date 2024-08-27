@@ -1,0 +1,257 @@
+{
+    "serviceArea":[{
+        "id":1,
+        "sectorName":"Smart Education",
+        "details":[{
+            "title":" Campus IT Infrastructure",
+            "desc1":"Network Solutions: High-speed internet, Wi-Fi coverage, and secure network infrastructure.",
+            "desc2":"Data Centers: Robust, scalable, and secure data storage and management.",
+            "desc3":"Cybersecurity: Protection against cyber threats and data breaches.",
+            "desc4":"IoT Integration: Connecting devices and systems for seamless operation."
+        },
+        {
+            "title":"Campus Management",
+            "desc1":"Administrative Systems: ERP for administration, finance, and HR management.",
+            "desc2":"Student Information Systems (SIS): Enrollment, attendance, grading, and performance tracking.",
+            "desc3":"Facility Management: Maintenance, energy management, and resource allocation",
+            "desc4":"Access Control and Security: Surveillance systems, smart access cards, and visitor management."
+        },
+        
+        {
+            "title":"Smart Classroom",
+            "desc1":"Interactive Learning: Smart boards, interactive projectors, and multimedia content.",
+            "desc2":"e-Learning Platforms: Online courses, virtual classrooms, and digital resources.",
+            "desc3":"e-Learning Platforms: Online courses, virtual classrooms, and digital resources.",
+            "desc4":"e-Learning Platforms: Online courses, virtual classrooms, and digital resources."
+        },
+        {
+            "title":"Cloud Desktop (Virtual Desktop Infrastructure)",
+            "desc1":"Virtual Labs: Access to software and resources from anywhere.",
+            "desc2":"Remote Learning: Seamless access to classroom resources for remote students.",
+            "desc3":"Scalability: Easy to scale resources up or down based on needs.",
+            "desc4":"Security: Data protection and secure access to virtual desktops."
+        },
+        
+        {
+            "title":"Smart Multimedia Studio",
+            "desc1":"I.High-Definition Video Production:- 4K/8K Cameras: Advanced cameras for capturing high-resolution video content.Studio Lighting: Professional lighting systems with adjustable settings to create the perfect ambiance. ",
+            "desc2":"II.Advanced Audio Systems:-High-Quality Microphones: Professional-grade microphones for clear and crisp audio recording.",
+            "desc3":"III.Post-Production Facilities:- Editing Suites: .",
+            "desc4":"IV.Live Streaming and Broadcasting:- Streaming Equipment: High-performance encoders."
+        },
+        {
+            "title":"Integrated Management Platform",
+            "desc1":"Integrate campus management systems such as data center management, network management, security management, parking lot management, education and teaching management, intelligent building management, campus affairs management, etc., and integrate advanced technologies such as digital twin and GIS to realize the visualization of campus management.",
+            "desc2":"",
+            "desc3":"",
+            "desc4":"" 
+        }
+    ]
+        
+    },
+    {
+          "id":2,
+        "sectorName":"Smart Agriculture",
+        "details":[{
+            
+            "title":"Smart Farms (Large-Scale Wild Farm)",
+            "desc1":"oSmart Farms Technology Architecture",
+            "desc2":"oData Collection And Monitoring System",
+            "desc3":"oWater And Fertilizer Irrigation System",
+            "desc4":"oUse Of Intelligent Devices"
+           
+        
+
+        },
+    {
+            
+            "title":"Precision Farming: ",
+            "desc1":"Use of sensors, drones, and GPS for optimized farming practices.",
+            "desc2":"",
+            "desc3":"",
+            "desc4":""
+           
+        
+
+        },
+     {
+            
+            "title":"IoT in Agriculture",
+            "desc1":"Smart devices for monitoring soil, weather, and crop health.",
+            "desc2":"",
+            "desc3":"",
+            "desc4":""
+           
+        
+
+        },
+         {
+            
+            "title":"Total Smart Agriculture Solutions",
+            "desc1":"Smart Agriculture Development Blueprint.",
+            "desc2":"Smart Agriculture Technology Architecture",
+            "desc3":"Smart Agricultural Information Services",
+            "desc4":""
+        },
+         {
+            
+            "title":"Greenhouse",
+            "desc1":"Greenhouse Technology Architecture.",
+            "desc2":"Automatic Skylight System",
+            "desc3":"Automatic Sprinkler",
+            "desc4":"Automatic Sprinkler"
+        }
+    ]
+
+    },{
+        "id":3,
+         "sectorName":"Smart Hospital",
+        "details":[{
+            "title":"Telemedicine",
+            "desc1":"Virtual Consultations: Platforms for patients to have video calls with doctors, reducing the need for in-person visits.",
+            "desc2":"Remote Monitoring: Devices and applications that allow healthcare providers to monitor patients' vital signs and health status from a distance.",
+            "desc3":"Digital Health Records: Secure access to patients' medical history and records for both doctors and patients through online portals.",
+            "desc4":""
+        },
+    {
+            "title":"Hospital Information Management Systems",
+            "desc1":"Electronic Health Records (EHR): Digital systems to store, manage, and retrieve patient information efficiently.",
+            "desc2":"Appointment Scheduling: Automated scheduling systems that allow patients to book, reschedule, and receive reminders for their appointments..",
+            "desc3":"Patient Portals: Online platforms where patients can view test results, communicate with healthcare providers, and manage their health information.",
+            "desc4":""
+        },
+    
+    {
+            "title":"Medical IoT Devices",
+            "desc1":"Smart Beds: Beds equipped with sensors to monitor patient movement, vitals, and provide alerts for immediate care..",
+            "desc2":"Wearable Health Devices: Devices such as smartwatches and fitness trackers that monitor heart rate, blood pressure, and other health metrics..",
+            "desc3":"Connected Diagnostic Equipment: Integration of devices like digital stethoscopes, smart thermometers, and ECG monitors to central systems for real-time data analysis.",
+            "desc4":""
+        },
+     {
+            "title":"Healthcare Analytics",
+            "desc1":"Predictive Analytics: Using data to predict patient outcomes and improve treatment plans..",
+            "desc2":"Operational Analytics: Monitoring hospital operations such as patient flow, resource utilization, and staffing needs to enhance efficiency..",
+            "desc3":"Clinical Decision Support Systems (CDSS): Tools that provide data-driven recommendations to assist clinicians in decision-making.",
+            "desc4":""
+        },
+     {
+            "title":"IP Telephone Systems",
+            "desc1":"VoIP Integration: High-quality voice communication over internet protocols for seamless internal and external communication.",
+            "desc2":"Unified Communication: Integration of voice, video, and messaging systems to streamline communication across departments..",
+            "desc3":"Emergency Call Systems: Quick and reliable communication channels for emergencies, connecting staff directly to response teams..",
+            "desc4":""
+        },
+      {
+            "title":" OR and ICU Monitoring Systems",
+            "desc1":"Real-Time Monitoring: Advanced monitoring systems for operating rooms (OR) and intensive care units (ICU) to track patients' vitals in real time.",
+            "desc2":"Remote Access: Systems that allow healthcare providers to monitor and manage patient care remotely.",
+            "desc3":"Data Integration: Centralized data systems that integrate with EHR and other hospital systems for comprehensive patient care management.",
+            "desc4":""
+        },
+     {
+            "title":"Smart Facilities Management",
+            "desc1":"Energy Management: Systems to monitor and optimize energy usage within the hospital, including lighting, heating, and cooling.",
+            "desc2":"Asset Tracking: Use of RFID and IoT devices to track the location and usage of medical equipment and supplies.",
+            "desc3":"Automated Maintenance: Predictive maintenance systems that schedule and manage maintenance tasks for hospital equipment and facilities.",
+            "desc4":""
+        },
+    {
+            "title":"Communication Systems",
+            "desc1":"Unified Communication Platforms: Integration of voice, video, and messaging systems for seamless communication among healthcare staff.",
+            "desc2":"Emergency Communication: Reliable and immediate communication channels for emergencies and critical situations.",
+            "desc3":"Patient Communication Systems: Bedside terminals and mobile apps for patients to communicate with healthcare providers, request assistance, and access information.",
+            "desc4":""
+        }]
+
+    },
+    {
+        "id":4,
+         "sectorName":"Smart City",
+        "details":[{
+            "title":"Smart Governance",
+            "desc1":"e-Government Services: Digital portals for public services, payments, and information.",
+            "desc2":"Citizen Engagement: Platforms for community involvement and feedback.",
+            "desc3":"Urban Planning: Data-driven decision-making for sustainable development.",
+            "desc4":""
+
+        },
+    {
+            "title":"Smart Transportation",
+            "desc1":"Traffic Management: Real-time monitoring and control of traffic flow.",
+            "desc2":"Public Transport: Integrated systems for buses, trains, and other public transport.",
+            "desc3":"Smart Parking: Solutions for efficient parking space management.",
+            "desc4":""
+
+        },
+     {
+            "title":" Smart Utilities",
+            "desc1":"Energy Management: Smart grids, renewable energy integration, and efficient distribution.",
+            "desc2":"Water Management: Real-time monitoring and control of water supply and quality.",
+            "desc3":"Waste Management: Automated collection, recycling, and disposal systems",
+            "desc4":""
+
+        },
+    {
+            "title":"Public Safety",
+            "desc1":"CCTV Surveillance Systems: Advanced security cameras and monitoring systems.",
+            "desc2":"Emergency Response: Rapid response systems for emergencies and disasters.",
+            "desc3":"Crime Prevention: Data-driven strategies for reducing crime rates.",
+            "desc4":""
+
+        },
+          {
+            "title":"Building Automation Systems (BAS)",
+            "desc1":"Centralized Control: Integration of HVAC, lighting, security, and other systems for centralized management.",
+            "desc2":"Energy Efficiency: Automated energy-saving measures and real-time energy usage monitoring.",
+            "desc3":"Climate Control: Adaptive heating, cooling, and ventilation based on occupancy and weather conditions.",
+            "desc4":""
+
+        },
+         {
+            "title":"Smart Security",
+            "desc1":"Access Control: Biometric systems, smart locks, and secure access management.",
+            "desc2":"Surveillance: Advanced CCTV, facial recognition, and real-time monitoring.",
+            "desc3":"Intrusion Detection: Sensors and alarms for detecting unauthorized access.",
+            "desc4":""
+
+        },
+         {
+            "title":" Smart Conference Room",
+            "desc1":"Advanced Audio-Visual Systems: High-Definition Displays: Large screens and projectors for clear presentations. ",
+            "desc2":"Collaboration Tools: Interactive Whiteboards: Touchscreen boards for dynamic presentations and collaboration.",
+            "desc3":"Room Scheduling: Digital platforms for scheduling and managing conference room usage.",
+            "desc4":"Environmental Controls: Adaptive lighting based on the time of day and meeting requirements."
+        },
+         {
+            "title":" Smart Lighting",
+            "desc1":"Adaptive Lighting: Automatic adjustment of lighting based on natural light and occupancy.",
+            "desc2":"Energy Management: Use of LED lights and smart controls to reduce energy consumption.",
+            "desc3":"Ambiance Control: Customizable lighting settings for different environments and needs.",
+            "desc4":""
+
+        },
+        {
+            "title":"Communication Systems",
+            "desc1":"Unified Communication: Integration of voice, video, and messaging systems.",
+            "desc2":"Emergency Communication: Reliable and immediate communication channels for emergencies.",
+            "desc3":"Intercom Systems: Advanced intercoms for effective internal communication.",
+            "desc4":""
+
+        },
+        {
+            "title":"Parking Management ",
+            "desc1":"Vehicle parking guidance and reverse vehicle searching support",
+            "desc2":"Visual electronic map for remote management of parking lots.",
+            "desc3":"View parking space status, equipment status, and information of parked vehicles through the electronic map.",
+            "desc4":"Real-time pop-up alarms for special and leadership parking spaces on the electronic map."
+
+        }
+
+    
+    ]
+
+    }
+]
+
+}

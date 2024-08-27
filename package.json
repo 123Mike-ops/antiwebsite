@@ -1,0 +1,43 @@
+{
+  "name": "Anhui-Anti",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vue-cli-service serve --mode development",
+    "build": "vue-cli-service build --mode production",
+    "test": "vue-cli-service serve --mode test",
+    "testbuild": "vue-cli-service build --mode test"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "animate.css": "^4.1.1",
+    "axios": "^1.4.0",
+    "axios-mock-adapter": "^1.21.4",
+    "core-js": "^3.8.3",
+    "element-ui": "^2.15.13",
+    "moment": "^2.29.4",
+    "prerender-spa-plugin-next": "^4.2.3",
+    "qrcodejs2": "^0.0.2",
+    "vee-validate": "^2.2.15",
+    "vue": "^2.6.14",
+    "vue-directive-image-previewer": "^2.2.2",
+    "vue-meta-info": "^0.1.7",
+    "vue-qr": "^4.0.9",
+    "vue-qrcode-reader": "^3.1.1",
+    "vue-router": "^3.5.1",
+    "vue-toastification": "^1.7.14",
+    "vuex": "^3.6.2",
+    "yup": "^0.27.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "node-sass": "^8.0.0",
+    "sass": "^1.77.8",
+    "sass-loader": "^13.3.3",
+    "swiper": "^9.3.2",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
